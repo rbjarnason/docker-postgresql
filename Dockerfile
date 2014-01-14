@@ -1,7 +1,7 @@
 # PostgreSQL
 
-FROM zumbrunnen/base
-MAINTAINER David Zumbrunnen <zumbrunnen@gmail.com>
+FROM yrpri/base
+MAINTAINER Robert Bjarnason <robert@citizens.is>
 
 ENV DEBIAN_FRONTEND noninteractive
 
